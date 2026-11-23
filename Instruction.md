@@ -5,8 +5,8 @@ Real-time scam pattern flagging tuned for seniors (e.g., impostor, lottery, tech
 Real-time scam pattern flagging tuned for seniors (e.g., impostor, lottery, tech-support) - Perf (runtime) AIE
 
 **Chosen Models**
-Target models: 
-Judge models: 
+Target models: Gemini-3.8-Flash, OpenAIGPT-OSS 120B
+Judge models: Claude 5.5 Sonnet
 
 **AIE**
 AIE Pipeline
